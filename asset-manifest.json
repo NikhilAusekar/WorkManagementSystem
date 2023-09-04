@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/WorkManagementSystem/static/css/main.dbbf8125.css",
+    "main.js": "/WorkManagementSystem/static/js/main.d9c30afd.js",
+    "static/js/787.b4679d47.chunk.js": "/WorkManagementSystem/static/js/787.b4679d47.chunk.js",
+    "static/media/managers.png": "/WorkManagementSystem/static/media/managers.10d71111850931a60449.png",
+    "static/media/employees.png": "/WorkManagementSystem/static/media/employees.a148035b4cdf9c9e71ad.png",
+    "static/media/task_logo.png": "/WorkManagementSystem/static/media/task_logo.a9f8e8debcb0c07e0413.png",
+    "static/media/task_slider.png": "/WorkManagementSystem/static/media/task_slider.cc4a012b2c890e8ef72a.png",
+    "static/media/contactus1.jpg": "/WorkManagementSystem/static/media/contactus1.b4d49dcd005decc63f3f.jpg",
+    "static/media/logo.svg": "/WorkManagementSystem/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/WorkManagementSystem/index.html",
+    "main.dbbf8125.css.map": "/WorkManagementSystem/static/css/main.dbbf8125.css.map",
+    "main.d9c30afd.js.map": "/WorkManagementSystem/static/js/main.d9c30afd.js.map",
+    "787.b4679d47.chunk.js.map": "/WorkManagementSystem/static/js/787.b4679d47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbbf8125.css",
+    "static/js/main.d9c30afd.js"
+  ]
+}
